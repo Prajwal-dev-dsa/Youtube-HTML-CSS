@@ -24,3 +24,17 @@
 .header-menu:hover {
     font-size: 1.7rem;
 }
+
+.header-logo {
+    height: 56px;
+    width: 100px;
+    padding-right: 150px;
+}
+
+.logo {
+    background-image: url(Color-YouTube-logo__1_-removebg-preview.png);
+    height: 56px;
+    width: 100px;
+    background-size: cover;
+    color: white;
+}
