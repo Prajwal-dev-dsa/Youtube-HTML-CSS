@@ -38,3 +38,18 @@
     background-size: cover;
     color: white;
 }
+
+.search-bar {
+    height: 42px;
+    width: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border: 0.1px solid gray;
+    padding-right: 30px;
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+    background-color: rgb(36, 36, 36);
+}
