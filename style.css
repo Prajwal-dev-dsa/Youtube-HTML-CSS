@@ -63,3 +63,15 @@
     font-size: 1.1rem;
     height: 42px;
 }
+
+.search-logo {
+    font-size: 1.7rem;
+    padding-left: 25px;
+    background-color: rgb(36, 36, 36);
+}
+
+.search-logo:hover {
+    font-size: 1.9rem;
+    padding-left: 25px;
+    background-color: rgb(36, 36, 36);
+}
