@@ -75,3 +75,12 @@
     padding-left: 25px;
     background-color: rgb(36, 36, 36);
 }
+
+.logo-search {
+    height: 40px;
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(36, 36, 36);
+}
