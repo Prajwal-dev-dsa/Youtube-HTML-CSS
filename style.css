@@ -95,3 +95,10 @@
     border-radius: 50%;
     margin-right: 200px;
 }
+
+.microphone{
+    font-size: 1.4rem;
+}
+.microphone:hover{
+    font-size: 1.6rem;
+}
