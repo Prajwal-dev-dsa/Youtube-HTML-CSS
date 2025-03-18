@@ -96,9 +96,18 @@
     margin-right: 200px;
 }
 
-.microphone{
+.microphone {
     font-size: 1.4rem;
 }
-.microphone:hover{
+
+.microphone:hover {
     font-size: 1.6rem;
+}
+
+.video {
+    font-size: 1.5rem;
+}
+
+.video:hover {
+    font-size: 1.7rem;
 }
