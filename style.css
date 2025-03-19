@@ -111,3 +111,15 @@
 .video:hover {
     font-size: 1.7rem;
 }
+
+.bell {
+    font-size: 1.6rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bell:hover {
+    font-size: 1.8rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
