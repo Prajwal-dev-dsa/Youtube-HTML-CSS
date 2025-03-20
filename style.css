@@ -123,3 +123,13 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.user {
+    font-size: 1.5rem;
+    padding-right: 30px;
+}
+
+.user:hover {
+    font-size: 1.7rem;
+    padding-right: 30px;
+}
