@@ -144,3 +144,24 @@
     width: 90px;
     height: 856px;
 }
+
+.home {
+    padding-top: 50px;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.home:hover {
+    padding-top: 50px;
+    font-size: 1.8rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.home-logo p {
+    padding-top: 5px;
+    font-size: .70rem;
+}
