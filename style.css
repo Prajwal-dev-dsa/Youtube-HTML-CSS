@@ -165,3 +165,25 @@
     padding-top: 5px;
     font-size: .70rem;
 }
+
+.all {
+    padding-top: 50px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.all:hover {
+    padding-top: 50px;
+    font-size: 2.2rem;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.all-logo p {
+    padding-top: 3px;
+    font-size: .70rem;
+    text-align: center;
+}
