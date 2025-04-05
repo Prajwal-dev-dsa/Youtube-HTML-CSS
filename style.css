@@ -214,3 +214,23 @@
     align-items: center;
     border-radius: 7px;
 }
+
+.cricket {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.music {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
