@@ -234,3 +234,23 @@
     align-items: center;
     border-radius: 7px;
 }
+
+.webd {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.appd {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 155px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
