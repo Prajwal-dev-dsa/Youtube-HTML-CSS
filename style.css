@@ -254,3 +254,33 @@
     align-items: center;
     border-radius: 7px;
 }
+
+.football {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.sports {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.ai {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
