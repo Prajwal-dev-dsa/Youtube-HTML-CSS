@@ -284,3 +284,33 @@
     align-items: center;
     border-radius: 7px;
 }
+
+.af {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.fs {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.ipl {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
