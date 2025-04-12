@@ -314,3 +314,33 @@
     align-items: center;
     border-radius: 7px;
 }
+
+.dsa {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.oops {
+    height: 32px;
+    background-color: rgb(56, 56, 56);
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.elite {
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+
+.elite:hover {
+    background-color: white;
+    color: black;
+}
