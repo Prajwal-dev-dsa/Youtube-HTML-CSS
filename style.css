@@ -352,3 +352,15 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.vid {
+    padding-left: 5px;
+    padding-top: 30px;
+    width: 345px;
+}
+
+.vid p {
+    padding-top: 10px;
+    padding-left: 3px;
+    font-weight: 600;
+}
