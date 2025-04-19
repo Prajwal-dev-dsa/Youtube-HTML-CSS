@@ -364,3 +364,19 @@
     padding-left: 3px;
     font-weight: 600;
 }
+
+.vido {
+    padding-top: 30px;
+    width: 345px;
+}
+
+.vido p {
+    padding-top: 10px;
+    padding-left: 3px;
+    font-weight: 600;
+}
+
+.vid1 {
+    padding-left: 5px;
+    width: 345px;
+}
